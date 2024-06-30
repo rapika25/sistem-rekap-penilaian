@@ -7,7 +7,7 @@
 ## Installation
 - Clone the repository:
   ```bash
-  git clone https://github.com/anggiirawan13/tugas-akhir-student.git
+  git clone https://github.com/rapika25/sistem-rekap-penilaian.git
   ```
 
 ## Setup
