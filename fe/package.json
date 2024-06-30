@@ -31,5 +31,9 @@
     "@nuxtjs/vuetify": "^1.12.3",
     "eslint-config-prettier": "^8.5.0",
     "prettier": "^2.7.1"
-  }
+  },
+  "description": "- NodeJS version 16.20.2\r - NPM version 8.19.4",
+  "main": "nuxt.config.js",
+  "author": "",
+  "license": "ISC"
 }
